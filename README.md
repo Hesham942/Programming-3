@@ -86,7 +86,7 @@ Contributions are welcome! If you have improvements or additional examples and e
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](License) file for more details.
 
 ---
 
